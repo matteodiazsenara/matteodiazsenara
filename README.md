@@ -1,4 +1,4 @@
-# Hi there, I'm Matteo! 👋
+# Hi there, I'm Marte Senara! 👋
 
 I'm a developer passionate about building cool software.
 
@@ -6,13 +6,11 @@ I'm a developer passionate about building cool software.
 
 ### 🧐 About Me
 
-- 🔭 I’m currently working on **Open Source projects**
-- 🌱 I’m currently learning **Advanced Algorithms**
+- 🔭 I’m currently gradauting on **Student in information technology**
+- 🌱 I’m currently learning **Advanced programming**
 - 👯 I’m looking to collaborate on **Web Development projects**
 - 💬 Ask me about **Coding, Tech, and Gaming**
-- 📫 How to reach me: [My Email](mailto:your-email@example.com)
-
----
+- 📫 How to reach me: [My Email](matecabugsan@gmail.com)---
 
 ### 🛠️ Languages and Tools
 
@@ -27,5 +25,4 @@ I'm a developer passionate about building cool software.
 
 ![Matteo's GitHub stats](https://github-readme-stats.vercel.app/api?username=matteodiazsenara&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matteodiazsenara&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 -->
